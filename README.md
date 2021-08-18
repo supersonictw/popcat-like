@@ -7,3 +7,4 @@ This is a list, to collect the game websites like [popcat.click](https://popcat.
 - <https://popdog.click>
 - <https://popass.click>
 - <https://poppig.click>
+- <https://popking.click/>
