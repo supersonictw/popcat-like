@@ -1,8 +1,4 @@
-## popcat-like
-
-This is a list, to collect the game websites like [popcat.click](https://popcat.click). 
-
-### Similar Wesites
+## Similar Wesites
 
 - <https://popdog.click>
 - <https://popass.click>
