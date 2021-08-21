@@ -8,3 +8,4 @@ This is a list, to collect the game websites like [popcat.click](https://popcat.
 - <https://popass.click>
 - <https://poppig.click>
 - <https://popking.click>
+- <https://popxi.click>
