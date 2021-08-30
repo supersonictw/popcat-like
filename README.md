@@ -18,7 +18,7 @@ This is a list, to collect the game websites like [popcat.click](https://popcat.
 - <https://poptsai.click>
 - <https://poprick.click>
 - <https://prayut.click>
-- <https://popbri.politician.world/>
+- <https://popbri.politician.world>
 - <https://popdin.politician.world>
 - <https://starburstclick.herokuapp.com>
 
