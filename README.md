@@ -2,11 +2,13 @@
 
 This is a list, to collect the game websites like [popcat.click](https://popcat.click). 
 
-### I made
+這是一份清單，蒐集與 [popcat.click](https://popcat.click) 相似的遊戲網站。
+
+### I made 我做的
 
 - <https://popsenzawa.click>
 
-### Similar Wesites
+### Similar Wesites 相似網站
 
 - <https://popdog.click>
 - <https://popass.click>
